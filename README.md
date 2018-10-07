@@ -25,3 +25,8 @@ I add a CP2102 chip to burn new code and debug it.
 ## Circuit
 
 ![circuit](img/circuit.jpg)
+
+## Video
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=U7gDHIUziTI" target="_blank"><img src="http://img.youtube.com/vi/U7gDHIUziTI/0.jpg" alt="Video" width="240" height="180" border="10" /></a>
+
